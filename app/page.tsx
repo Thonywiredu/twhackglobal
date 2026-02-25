@@ -14,7 +14,7 @@ export default function Home() {
   </p>
 </div>
           <SectionTitle
-            eyebrow="BUT PLEASE NOTE THAT WE ARE NOT YET IN OPERATION"
+            eyebrow="Disciplined Cyber Defense"
             title={<>Cyber Defense, <span className="text-sky-300">Proven by Penetration.</span></>}
             lead="Precision-driven penetration testing and vulnerability assessment for security-focused organizations."
           />
