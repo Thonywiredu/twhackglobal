@@ -8,7 +8,7 @@ export default function Home() {
       <section className="py-16 md:py-20">
         <Container>
           <SectionTitle
-            eyebrow="Authorization-first • Evidence-based reporting • Confidential by design"
+            eyebrow="BUT PLEASE NOTE THAT WE ARE NOT YET IN OPERATION"
             title={<>Cyber Defense, <span className="text-sky-300">Proven by Penetration.</span></>}
             lead="TWHack Cyber Defense provides authorized penetration testing, vulnerability assessment,BUT PLEASE NOTE THAT WE ARE NOT YET IN OPERATION."
           />
