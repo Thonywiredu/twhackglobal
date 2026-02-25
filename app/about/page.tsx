@@ -6,6 +6,12 @@ export default function Page() {
   return (
     <main className="py-14 md:py-18">
       <Container>
+        <div className="mb-8 rounded-xl bg-yellow-500/10 ring-1 ring-yellow-400/30 p-4 text-center">
+  <p className="text-sm font-semibold text-yellow-300">
+    🚧 Coming Soon — TWHack Cyber Defense is currently under development and not yet operational.
+    We are building a powerful cybersecurity platform. Stay tuned.
+  </p>
+</div>
         <SectionTitle title="About" lead="Independent cyber defense consultancy based in Accra, Ghana." />
         <div className="mt-10 space-y-5 text-slate-200">
 <section className="space-y-3">
