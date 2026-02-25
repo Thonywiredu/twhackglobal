@@ -5,7 +5,18 @@ import { SectionTitle } from "@/components/Section";
 export default function Home() {
   return (
     <main>
-      <section className="py-16 md:py-20">
+      <section className="relative py-16 md:py-20">
+        <div className="absolute inset-0 -z-10 overflow-hidden">
+  <video
+    autoPlay
+    loop
+    muted
+    playsInline
+    className="w-full h-full object-cover opacity-40"
+  >
+    <source src="/twhack.image.mp4" type="video/mp4" />
+  </video>
+</div>
         <Container>
           <div className="mb-8 rounded-xl bg-yellow-500/10 ring-1 ring-yellow-400/30 p-4 text-center">
   <p className="text-sm font-semibold text-yellow-300">
