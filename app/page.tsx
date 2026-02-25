@@ -16,7 +16,7 @@ export default function Home() {
           <SectionTitle
             eyebrow="BUT PLEASE NOTE THAT WE ARE NOT YET IN OPERATION"
             title={<>Cyber Defense, <span className="text-sky-300">Proven by Penetration.</span></>}
-            lead="TWHack Cyber Defense provides authorized penetration testing, vulnerability assessment,BUT PLEASE NOTE THAT WE ARE NOT YET IN OPERATION."
+            lead="Precision-driven penetration testing and vulnerability assessment for security-focused organizations."
           />
           <div className="mt-8 flex flex-wrap gap-3">
             <Link
