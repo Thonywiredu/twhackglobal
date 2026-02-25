@@ -10,7 +10,7 @@ export default function Home() {
           <SectionTitle
             eyebrow="Authorization-first • Evidence-based reporting • Confidential by design"
             title={<>Cyber Defense, <span className="text-sky-300">Proven by Penetration.</span></>}
-            lead="TWHack Cyber Defense provides authorized penetration testing, vulnerability assessment, and defensive hardening support—delivered with government-grade professionalism."
+            lead="TWHack Cyber Defense provides authorized penetration testing, vulnerability assessment,BUT PLEASE NOTE THAT WE ARE NOT YET IN OPERATION."
           />
           <div className="mt-8 flex flex-wrap gap-3">
             <Link
