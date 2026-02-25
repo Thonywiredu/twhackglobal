@@ -7,6 +7,12 @@ export default function Home() {
     <main>
       <section className="py-16 md:py-20">
         <Container>
+          <div className="mb-8 rounded-xl bg-yellow-500/10 ring-1 ring-yellow-400/30 p-4 text-center">
+  <p className="text-sm font-semibold text-yellow-300">
+    🚧 Coming Soon — TWHack Cyber Defense is currently under development and not yet operational.
+    We are building a powerful cybersecurity platform. Stay tuned.
+  </p>
+</div>
           <SectionTitle
             eyebrow="BUT PLEASE NOTE THAT WE ARE NOT YET IN OPERATION"
             title={<>Cyber Defense, <span className="text-sky-300">Proven by Penetration.</span></>}
