@@ -5,7 +5,7 @@ import { SectionTitle } from "@/components/Section";
 export default function Home() {
   return (
     <main>
-      <section className="relative py-16 md:py-20">
+      <section className="relative min-h-screen py-16 md:py-20">
         <div className="absolute inset-0 -z-10 overflow-hidden">
   <video
     autoPlay
